@@ -1,0 +1,2 @@
+mvn install
+cp "/mnt/c/Users/Sanjay Gudla/Desktop/ColorCoding App/target/ColorCodingApp-1.0.jar" "/mnt/c/Users/Sanjay Gudla/CytoscapeConfiguration/3/apps/installed/ColorCodingApp-1.0.jar"

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Bnd-LastModified: 1685255670837
+Import-Package: javax.swing,org.cytoscape.application;version="[3.0,4)",
+ org.cytoscape.application.swing;version="[3.0,4)",org.cytoscape.model;v
+ ersion="[3.0,4)",org.cytoscape.service.util;version="[3.0,4)",org.cytos
+ cape.view.model;version="[3.0,4)",org.cytoscape.view.presentation.prope
+ rty;version="[3.0,4)",org.cytoscape.view.presentation.property.values;v
+ ersion="[3.0,4)",org.osgi.framework;version="[1.5,2)"
+Bundle-Name: ColorCodingApp
+Bundle-Activator: org.cytoscape.sample.internal.CyActivator
+Bundle-SymbolicName: org.cytoscape.ColorCodingApp
+Bundle-Version: 1.0
+Built-By: sanjaygudla
+Build-Jdk: 11.0.18
+
